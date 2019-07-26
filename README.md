@@ -1,2 +1,2 @@
 # waveTracer
-order creation and retracement trading bot for Waves Platform
+Order creation and retracement trading bot for Waves Platform
